@@ -22,3 +22,5 @@ yarn-error.log
 !/public/assets/uploads/.gitkeep
 /public/assets/icons/verticals/*
 !/public/assets/icons/verticals/.gitkeep
+/public/assests/*
+/public/assets/logo.jpeg
