@@ -17,3 +17,8 @@ yarn-error.log
 .DS_Store
 .idea
 .vscode
+
+/public/assets/uploads/*
+!/public/assets/uploads/.gitkeep
+/public/assets/icons/verticals/*
+!/public/assets/icons/verticals/.gitkeep
